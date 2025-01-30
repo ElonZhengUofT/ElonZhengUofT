@@ -21,7 +21,7 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resume: "Resume_Shizhao_Zheng.html"
+  Resume: "resumeshizhao"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
